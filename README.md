@@ -15,6 +15,8 @@ Before starting, make sure you have the following installed on your machine:
 
 ## 🗺️ What We're Building
 
+<img width="2557" height="1750" alt="image" src="https://github.com/user-attachments/assets/84dc0315-4843-4d35-9bca-8f5f4d6dfd58" />
+
 ```
 Confluence Pages
       │
